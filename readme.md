@@ -1,8 +1,10 @@
 ### Hello! // Olá!
 
-:mortar_board: I am a Bachelor of Management/Manufacturing Engineering based on São Paulo - Brazil.
+:briefcase: Currently a fullstack intern at @buserbrasil.
 
-:computer: Currently taking courses on Faculdade das Américas - FAM - Tecnológo em Análise e Desenvolvimento de Sistemas and on [Digital Innovation One](https://digitalinnovation.one) platform and where else information is available.
+:mortar_board: I am a Bachelor of Management/Manufacturing Engineering based on São José dos Campos - Brazil.
+
+:computer: Currently taking courses on Faculdade Descomplica - Tecnológo em Análise e Desenvolvimento de Sistemas and on [Digital Innovation One](https://digitalinnovation.one) platform and where else information is available.
 
 :gem: Technology has always been part of my life, development is a consequence of it.
 
