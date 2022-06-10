@@ -8,14 +8,11 @@
 
 :gem: Technology has always been part of my life, development is a consequence of it.
 
-[Visit my personal webpage on github (under construction)](https://mhenrique94.github.io/)
+[Visit my personal webpage on github (under construction)](https://mhenrique94.github.io/DFinal-Pag_Pessoal/))
 
-#### :anchor: Main languages
+#### 
 
-  <div>
-    <div align="left">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhenrique94&langs_count=6&layout=compact">
-    </div>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhenrique94&langs_count=5&count_private=true&show_icons=true&theme=radical&title_color=36acd1&text_color=eeeee4&icon_color=eeeee4&layout=compact"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=mhenrique94&count_private=true&show_icons=true&theme=radical&title_color=36acd1&text_color=eeeee4&icon_color=eeeee4">   
 
 
 
