@@ -10,8 +10,8 @@
 :gem: Technology has always been part of my life, now development is!
 
 <p align="center">
-	`<img width="100%" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhenrique94&langs_count=5&count_private=true&show_icons=true&theme=radical&title_color=36acd1&text_color=eeeee4&icon_color=eeeee4&layout=compact">
-	<img width="100%" height="180" src="https://github-readme-stats.vercel.app/api?username=mhenrique94&count_private=true&show_icons=true&theme=radical&title_color=36acd1&text_color=eeeee4&icon_color=eeeee4">   
+	`<img width="100%" height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mhenrique94&langs_count=5&count_private=true&show_icons=true&theme=radical&title_color=36acd1&text_color=eeeee4&icon_color=eeeee4&layout=compact">
+	<img width="100%" height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mhenrique94&count_private=true&show_icons=true&theme=radical&title_color=36acd1&text_color=eeeee4&icon_color=eeeee4">   
 </p>
 <p>
 
