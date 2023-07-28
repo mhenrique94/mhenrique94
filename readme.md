@@ -1,11 +1,11 @@
 ### Hello! // Olá! Sou o Marcelo
  Let's connect on [Linkedin](https://www.linkedin.com/in/marcelohsilva/)!
  
-:briefcase: Currently a fullstack intern at @buserbrasil - stack: vue, django.
+:briefcase: Currently a fullstack developer at @buserbrasil - stack: vue, django.
 
-:mortar_board: I am a Bachelor of Management/Manufacturing Engineering based on São José dos Campos - Brazil.
+:mortar_board: I am a Bachelor of Management/Manufacturing Engineering based São Paulo - Brazil.
 
-:computer: Currently taking courses on Faculdade Descomplica - Systems Analysis and development (degree).
+:computer: Currently taking courses on UniAmerica - Systems Analysis and development (degree).
 
 :gem: Technology has always been part of my life, now development is!
 
